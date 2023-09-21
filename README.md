@@ -1,8 +1,7 @@
 # 👨‍💻 About Me:
-AN unndergraduate student in Computer Engineering at Universitas Pembangunan Nasional Veteran 
+An undergraduate student in Computer Engineering at Universitas Pembangunan Nasional Veteran 
 Jakarta. Have interest in Game Developer and full stack developer. Familiar with several IT 
-tools/Program Language such as HTML, CSS, JavaScript, MySQL, Python, C#, Visual Studio Code, 
-XAMPP and Unity Editor. A determined individual seeking to push their boundaries.
+tools/Program Language. A determined individual seeking to push their boundaries.
 
 - ♚ Love playing strategy games
 - 💣 Minesweeper is a daily breakfast 4 my braincell
