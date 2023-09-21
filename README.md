@@ -6,7 +6,7 @@ tools/Program Language. A determined individual seeking to push their boundaries
 - ♚ Love playing strategy games
 - 💣 Minesweeper is a daily breakfast 4 my braincell
 
-## 🌐 Socials:
+## 🌐 Reach Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bimaadhitya_s) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bimaadhityas)
 
@@ -26,6 +26,6 @@ tools/Program Language. A determined individual seeking to push their boundaries
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=BimaAdhityaS&show_icons=true&theme=holi><br/>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=BimaAdhityaS&layout=compact&theme=holi>
+  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=BimaAdhityaS&show_icons=true&theme=holi>
+  <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=BimaAdhityaS&layout=compact&theme=holi>
 </div>
