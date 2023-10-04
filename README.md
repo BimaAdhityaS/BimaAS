@@ -34,3 +34,10 @@ tools/Program Language. A determined individual seeking to push their boundaries
   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=BimaAdhityaS&show_icons=true&theme=holi>
   <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=BimaAdhityaS&layout=compact&theme=holi>
 </div>
+
+---
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=BimaAdhityaS&label=Profile%20Views&color=1&icon=0&pretty=true" />
+</a>
+</div>
