@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=BimaAdhityaS&label=Profile%20Views&color=1&icon=0&pretty=true" />
-  </a>
-</div>
-
 # 👨‍💻 About Me:
 An undergraduate student in Computer Engineering at Universitas Pembangunan Nasional Veteran 
 Jakarta. Have interest in Game Developer and full stack developer. Familiar with several IT 
